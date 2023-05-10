@@ -1,19 +1,19 @@
-**WCFM Bulk Import Vendor Plugin**
+**WCFM Bulk Import Vendor Plugin**<br>
 
 The WCFM Bulk Import Vendor plugin is a powerful tool designed to simplify the process of bulk importing vendors into the WCFM (WooCommerce Multivendor Marketplace) plugin. It enables site administrators to import vendor details from a CSV (Comma-Separated Values) file, automating the creation of vendor accounts and assigning vendor roles.
 
-**Key Features**
-Efficient Bulk Import: The plugin allows you to import a large number of vendors from a CSV file in a single operation, saving you valuable time and effort.
+**Key Features**<br><br>
+-Efficient Bulk Import: The plugin allows you to import a large number of vendors from a CSV file in a single operation, saving you valuable time and effort.
 
-Vendor Account Creation: It automatically creates user accounts for each vendor specified in the CSV file, eliminating the need for manual account setup.
+-Vendor Account Creation: It automatically creates user accounts for each vendor specified in the CSV file, eliminating the need for manual account setup.
 
-Vendor Role Assignment: The plugin assigns the appropriate vendor role (WCFM Vendor) to each imported vendor, ensuring they have the necessary permissions and capabilities.
+-Vendor Role Assignment: The plugin assigns the appropriate vendor role (WCFM Vendor) to each imported vendor, ensuring they have the necessary permissions and capabilities.
 
-Custom Field Mapping: You can map custom fields from the CSV file to specific user meta fields, such as MID, Hash, and Stall Number, allowing you to store additional vendor information.
+-Custom Field Mapping: You can map custom fields from the CSV file to specific user meta fields, such as MID, Hash, and Stall Number, allowing you to store additional vendor information.
 
-Error Handling and Logging: The plugin includes robust error handling mechanisms to detect and report any issues during the import process. It maintains a detailed log of import activities, aiding in troubleshooting and auditing.
+-Error Handling and Logging: The plugin includes robust error handling mechanisms to detect and report any issues during the import process. It maintains a detailed log of import activities, aiding in troubleshooting and auditing.
 
-**How to Use**<br>
+**How to Use**<br><br>
 -Prepare your CSV file: Ensure your CSV file contains the necessary vendor details, such as email, username, phone number, password, and any custom fields (MID, Hash, Stall Number).
 
 -Install and activate the plugin: Upload the WCFM Bulk Import Vendor plugin to your WordPress site and activate it through the plugins menu.
