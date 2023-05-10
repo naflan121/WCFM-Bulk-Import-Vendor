@@ -13,7 +13,7 @@ Custom Field Mapping: You can map custom fields from the CSV file to specific us
 
 Error Handling and Logging: The plugin includes robust error handling mechanisms to detect and report any issues during the import process. It maintains a detailed log of import activities, aiding in troubleshooting and auditing.
 
-**How to Use**
+**How to Use**<br>
 -Prepare your CSV file: Ensure your CSV file contains the necessary vendor details, such as email, username, phone number, password, and any custom fields (MID, Hash, Stall Number).
 
 -Install and activate the plugin: Upload the WCFM Bulk Import Vendor plugin to your WordPress site and activate it through the plugins menu.
