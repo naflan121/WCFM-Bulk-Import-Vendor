@@ -1,4 +1,4 @@
-WCFM Bulk Import Vendor Plugin
+**WCFM Bulk Import Vendor Plugin**
 
 The WCFM Bulk Import Vendor plugin is a powerful tool designed to simplify the process of bulk importing vendors into the WCFM (WooCommerce Multivendor Marketplace) plugin. It enables site administrators to import vendor details from a CSV (Comma-Separated Values) file, automating the creation of vendor accounts and assigning vendor roles.
 
